@@ -11,7 +11,6 @@ public class Operadores {
         System.out.println("Precendencia");
         precendencia();
 
-
     }
 
     private static void precendencia() {
