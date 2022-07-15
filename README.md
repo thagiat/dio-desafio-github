@@ -1,7 +1,7 @@
 # Dio Desafio Github - Primeiro Repositório
 
 
-Repositório criado para o Desafio de Projeto .
+Repositório criado para o Desafio de Projeto.
 
 
 ## Links Úteis
