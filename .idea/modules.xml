@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/MetodosCriacao/MetodosCriacao.iml" filepath="$PROJECT_DIR$/IdeaProjects/MetodosCriacao/MetodosCriacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/OperadoresAritmeticos/OperadoresAritmeticos.iml" filepath="$PROJECT_DIR$/IdeaProjects/OperadoresAritmeticos/OperadoresAritmeticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/PrimeiroProjetoIntellij/PrimeiroProjetoIntellij.iml" filepath="$PROJECT_DIR$/IdeaProjects/PrimeiroProjetoIntellij/PrimeiroProjetoIntellij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/TipoDeDados/TipoDeDados.iml" filepath="$PROJECT_DIR$/IdeaProjects/TipoDeDados/TipoDeDados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/Variaveis/Variaveis.iml" filepath="$PROJECT_DIR$/IdeaProjects/Variaveis/Variaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dio-desafio-github.iml" filepath="$PROJECT_DIR$/.idea/dio-desafio-github.iml" />
+    </modules>
+  </component>
+</project>
