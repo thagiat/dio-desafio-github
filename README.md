@@ -13,6 +13,10 @@ Repositório criado para o Desafio de Projeto Git. Utilizado para as aulas do bo
 4. Lógica Condicional e Controle de Fluxos.
 5. Estruturas de Repetição
 6. Arrays e Matrizes
+7. Orientação a Objetos
+   1. Classes, Atributos e Métodos
+   2. Herança, Associação e Interface
+   3. Pacotes e Visibilidades
 
 ## Links Úteis
 
