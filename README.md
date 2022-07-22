@@ -1,9 +1,8 @@
 # Dio Desafio Github - Primeiro Repositório
 
+Repositório criado para o Desafio de Projeto Git. Utilizado para as aulas do bootcamp Santander Code Girls. Todas utilizando Java.
 
-Repositório criado para o Desafio de Projeto. Utilizado também para as aulas do bootcamp Santander Code Girls.
-
-## Conteúdo
+## Cursos Estudados
 
 1. Dominando IDEs Java - Intellij
 2. Variáveis, Tipos de Dados e Operadores Matemáticos em Java
@@ -11,8 +10,9 @@ Repositório criado para o Desafio de Projeto. Utilizado também para as aulas d
    1. Criação
    2. Sobrecarga
    3. Retornos
-
-
+4. Lógica Condicional e Controle de Fluxos.
+5. Estruturas de Repetição
+6. Arrays e Matrizes
 
 ## Links Úteis
 
